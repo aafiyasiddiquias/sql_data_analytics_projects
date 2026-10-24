@@ -8,9 +8,9 @@ SQL assignments and case studies that show my data querying and analysis skills,
 MBA (Marketing) graduate moving into data analytics. I am completing an Executive PG Certification in Data Analytics (iHub IIT Roorkee & Intellipaat) and am looking for roles in **MIS / Reporting, Junior Data Analyst, Business Analytics and Marketing Analytics**.
 
 ## Skills
-- **SQL:** JOINs, subqueries, CTEs, window functions, GROUP BY / HAVING, ROLLUP, stored procedures, views, triggers, transactions, user-defined functions
+- **SQL:** JOINs, subqueries, GROUP BY / HAVING, ROLLUP, views, triggers, transactions, user-defined functions
 - **Python:** fundamentals, OOP, NumPy, Pandas
-- **Tools:** Excel, Google Sheets, PowerPoint, Canva
+- **Tools:** Excel, Google Sheets, PowerPoint, Canva, AI-Tools
 
 ## Projects
 
