@@ -1,4 +1,4 @@
-# SQL SQL case study 3: Jomato Restaurant Analysis
+# SQL case study 3: Jomato Restaurant Analysis
 
 ## Problem Statement
 A food delivery platform similar to Jomato shared a dataset of restaurants in a city. The task was to use SQL to extract insights and build reusable database objects for reporting.
