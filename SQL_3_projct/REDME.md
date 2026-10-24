@@ -21,7 +21,7 @@ A food delivery platform similar to Jomato shared a dataset of restaurants in a 
 | Delivery time | Delivery time in minutes |
 
 ## Data Preparation
-- Imported the CSV into a `restaurant` table using the Flat File Import wizard (SQL Server)
+- Imported the CSV into a `restaurant` table using the Flat File Import wizard (MS SQL Server)
 - Converted `TableBooking` from Yes/No to 1/0 and changed the column type to `BIT`
 - Changed `Rating` to `DECIMAL(3,1)`
 
@@ -39,10 +39,9 @@ A food delivery platform similar to Jomato shared a dataset of restaurants in a 
 ## Files in this Folder
 - `ASSIGNMNT_3.sql`: all SQL queries
 - `Jomato.csv`: dataset
-- `SQL-Mandatory-Assignment-3.pdf`: assignment questions
 
 ## Tools
-SQL Server (T-SQL), SSMS
+MS SQL Server (T-SQL), SSMS
 
 ## Key Learnings
 - Wrapping logic in stored procedures and views makes queries reusable
