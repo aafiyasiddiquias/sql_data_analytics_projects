@@ -18,7 +18,7 @@ MBA (Marketing) graduate moving into data analytics. I am completing an Executiv
 |---|---------|--------|----------------|
 | 1 | SQL Case Study 1: Sales, Profit and Marketing Analysis | [Sql_1_project](./Sql_1_project) | 29 queries on 3 related tables: joins, DENSE_RANK, ROLLUP, stored procedure, function, transactions |
 | 2 | SQL Case Study 2: Employee Database | [SQL_2_project](./SQL_2_project) | 53 queries: table design with keys, joins, CASE WHEN, subqueries |
-| 3 | SQL Case Study 3: Jomato Restaurant Analysis | [SQL_3_projct](./SQL_3_projct) | Stored procedure, transaction, ROW_NUMBER, WHILE loop, view, trigger on about 7,100 restaurants |
+| 3 | SQL Case Study 3: Jomato Restaurant Analysis | [SQL_3_projct](./SQL_3_project) | Stored procedure, transaction, ROW_NUMBER, WHILE loop, view, trigger on about 7,100 restaurants |
 
 Each folder has its own README with the problem statement, the dataset, the concepts used and the SQL file.
 
